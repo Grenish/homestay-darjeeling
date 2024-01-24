@@ -6,6 +6,7 @@ const App = () => {
     <div>
       <components.Navbar />
       <components.Hero />
+      <components.Booking />
       <components.Gallery />
       <components.Footer />
     </div>
